@@ -49,7 +49,7 @@ group :development, :test do
   gem 'capistrano-passenger'
 end
 
-  gem 'mysql2'
+gem 'mysql2'
 
 group :development do
   gem 'faker'
